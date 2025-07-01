@@ -9,9 +9,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/fyi-landing-page.git"
+    "url": "https://github.com/FoundationForYouthInitiative/ethio-sudan.git"
   },
-  "homepage": "https://yourusername.github.io/fyi-landing-page",
+  "homepage": "https://FoundationForYouthInitiative.github.io/ethio-sudan",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
